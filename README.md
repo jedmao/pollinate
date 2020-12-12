@@ -198,7 +198,7 @@ Which can also be an array of commands
     "git add .",
     "git commit -m 'initial commit'",
     "git remote add origin https://github.com/{{ org }}/{{ name }}.git",
-    "git push -u origin master",
+    "git push -u origin main",
     "code ."
   ]
 }
